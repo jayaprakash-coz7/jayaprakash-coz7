@@ -32,17 +32,12 @@ I am a self-motivated, reliable, and hardworking software professional with a st
 
 ---
 
-## ✨ Developer Snapshot
+## 📌 Profile Summary
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+MySQL;Building+Scalable+Enterprise+Apps;Hackathon+Winner+%7C+Problem+Solver" />
-</p>
-
-<p align="center">
-  💼 Full Stack Java Developer @ Cozentus Technologies (P) Ltd <br/>
-  🎓 B.Tech in Computer Science & Engineering <br/>
-  🏆 Multiple Hackathon Winner <br/>
-  ✍️ Technical Content Writer
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Java%20Developer-41B883?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-Cozentus%20Technologies-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Spring%20Boot%20%7C%20Angular-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -63,7 +58,7 @@ I am a self-motivated, reliable, and hardworking software professional with a st
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,angular,react,mysql,postgresql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,js,html,css,react,mysql,postgresql,git)](https://skillicons.dev)
 
 ---
 
