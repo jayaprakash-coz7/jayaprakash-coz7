@@ -63,14 +63,7 @@ I am a self-motivated, reliable, and hardworking software professional with a st
 
 ## 🛠️ Tech Stack
 
-**Backend:**  
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
-
-**Frontend:**  
-[![My Skills](https://skillicons.dev/icons?i=angular,react,js,html,css)](https://skillicons.dev)
-
-**Database & Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,js,html,css,react,mysql,postgresql,git)](https://skillicons.dev)
 
 ---
 
