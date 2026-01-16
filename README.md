@@ -34,7 +34,7 @@ I am a self-motivated, reliable, and hardworking software professional with a st
 
 ## 📊 GitHub Stats
 
-![Jayprakash7's Stats](https://github-readme-stats.vercel.app/api?username=Jayprakash7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Jayaprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayaprakash-coz7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
