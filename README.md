@@ -32,9 +32,18 @@ I am a self-motivated, reliable, and hardworking software professional with a st
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Developer Snapshot
 
-![Jayaprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayaprakash-coz7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+MySQL;Building+Scalable+Enterprise+Apps;Hackathon+Winner+%7C+Problem+Solver" />
+</p>
+
+<p align="center">
+  💼 Full Stack Java Developer @ Cozentus Technologies (P) Ltd <br/>
+  🎓 B.Tech in Computer Science & Engineering <br/>
+  🏆 Multiple Hackathon Winner <br/>
+  ✍️ Technical Content Writer
+</p>
 
 ---
 
